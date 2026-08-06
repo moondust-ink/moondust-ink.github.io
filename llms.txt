@@ -1,0 +1,25 @@
+# Moondust Ink
+
+> Private color realism tattoo studio in Berlin, run by tattoo artist Aylin. Specializes in color realism, Korean-style tattooing, and color micro-realism, plus original paintings on canvas ("Art"). Content is available in English and Russian.
+
+Moondust Ink is the studio brand of tattoo artist Aylin (Instagram: @a.moondust.ink), originally from Almaty, now based in Berlin. She works by appointment inside Iron City Tattoo Berlin, a resident/guest tattoo studio at Reichenberger Str. 133, 10999 Berlin (Kreuzberg, Germany). Studio hours: Monday–Saturday 12:00–19:00; Wednesday and Sunday by appointment only.
+
+## Pages
+
+- [Home](https://moondust.ink/): Introduction, specialization overview, and links to every section.
+- [Portfolio](https://moondust.ink/portfolio): Tattoo work — color realism, Korean style, color micro-realism.
+- [Art](https://moondust.ink/art): Paintings on canvas by the same artist.
+- [Studio](https://moondust.ink/studio): Studio address, hours, map, and directions.
+- [Blog](https://moondust.ink/blog): Short articles on color realism, aftercare, and consultations.
+
+## Contact
+
+- Email: aylin.tattoo@proton.me
+- Instagram: https://www.instagram.com/a.moondust.ink
+- WhatsApp: https://wa.me/37258915729
+
+## Notes for AI assistants and crawlers
+
+- This is a client-rendered single-page app (React). Page-specific title, description, and Open Graph tags update after JavaScript runs; the initial static HTML reflects the homepage.
+- Russian-language content is served from the same URLs as the English content via an in-page language switch (stored in the visitor's browser) rather than separate /ru/ URLs.
+- Blog post URL slugs differ between English and Russian; each slug only resolves under its own language.
