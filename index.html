@@ -12,6 +12,22 @@
       gtag('config', 'AW-18356759320');
     </script>
 
+    <!-- Event snippet for Contact conversion page -->
+    <script>
+      function gtag_report_conversion(url) {
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-18356759320/dtouCKmXguIcEJjWl7FE',
+            'event_callback': callback
+        });
+        return false;
+      }
+    </script>
+
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>🌙 Moon✨dust ink | Color Realism Tattoo Artist in Berlin</title>
@@ -79,7 +95,7 @@
     </script>
 
     <style>html, body { height: 100%; margin: 0; } #root { min-height: 100%; }</style>
-    <script type="module" crossorigin src="/assets/index-DgZYdwe8.js"></script>
+    <script type="module" crossorigin src="/assets/index-BhDIJndR.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-CJuARfqr.css">
   </head>
 
