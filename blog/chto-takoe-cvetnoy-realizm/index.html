@@ -28,6 +28,14 @@
       }
     </script>
 
+    <!-- Delegated click tracking for contact links (mailto/WhatsApp/Telegram/tel) -->
+    <script>
+      document.addEventListener('click', function (e) {
+        var a = e.target.closest('a[href^="mailto:"], a[href*="wa.me"], a[href*="t.me"], a[href^="tel:"]');
+        if (a && typeof gtag_report_conversion === 'function') gtag_report_conversion();
+      }, true);
+    </script>
+
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>🌙 Moon✨dust ink | Color Realism Tattoo Artist in Berlin</title>
@@ -95,7 +103,7 @@
     </script>
 
     <style>html, body { height: 100%; margin: 0; } #root { min-height: 100%; }</style>
-    <script type="module" crossorigin src="/assets/index-BhDIJndR.js"></script>
+    <script type="module" crossorigin src="/assets/index-BK57si1B.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-CJuARfqr.css">
   </head>
 
