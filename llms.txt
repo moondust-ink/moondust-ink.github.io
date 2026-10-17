@@ -1,25 +1,44 @@
 # Moondust Ink
 
-> Private color realism tattoo studio in Berlin, run by tattoo artist Aylin. Specializes in color realism, Korean-style tattooing, and color micro-realism, plus original paintings on canvas ("Art"). Content is available in English and Russian.
+> Private color realism tattoo studio in Berlin-Kreuzberg run by tattoo artist Aylin. Specializes in color realism, color micro-realism and Korean-style tattoos, and also paints on canvas. Work is by appointment only. The site is available in English and Russian, each language on its own URLs.
 
-Moondust Ink is the studio brand of tattoo artist Aylin (Instagram: @a.moondust.ink), originally from Almaty, now based in Berlin. She works by appointment inside Iron City Tattoo Berlin, a resident/guest tattoo studio at Reichenberger Str. 133, 10999 Berlin (Kreuzberg, Germany). Studio hours: Monday–Saturday 12:00–19:00; Wednesday and Sunday by appointment only.
+Aylin (Instagram @a.moondust.ink) works as a resident artist at Iron City Tattoo Berlin, Reichenberger Str. 133, 10999 Berlin (Kreuzberg), 3 minutes on foot from Kottbusser Tor (U1, U3, U8). Studio hours: Mon, Tue, Thu–Sat: 12:00–19:00 (Wed & Sun by appointment).
 
-## Pages
+## English pages
 
-- [Home](https://moondust.ink/): Introduction, specialization overview, and links to every section.
-- [Portfolio](https://moondust.ink/portfolio): Tattoo work — color realism, Korean style, color micro-realism.
-- [Art](https://moondust.ink/art): Paintings on canvas by the same artist.
-- [Studio](https://moondust.ink/studio): Studio address, hours, map, and directions.
-- [Blog](https://moondust.ink/blog): Short articles on color realism, aftercare, and consultations.
+- [Home](https://moondust.ink/): Overview of services, styles and the artist.
+- [Portfolio](https://moondust.ink/portfolio/): Color realism, Korean style and micro-realism tattoos.
+- [Art](https://moondust.ink/art/): Paintings on canvas by the same artist.
+- [Studio](https://moondust.ink/studio/): Address, opening hours, how to get there.
+- [FAQ](https://moondust.ink/faq/): Booking, consultation, pricing, pain, sessions, aftercare, hygiene.
+- [What color realism actually takes](https://moondust.ink/blog/what-color-realism-actually-takes/): A quick look at why color realism and micro-realism are some of the most demanding styles in tattooing — and what that means for your session.
+- [Aftercare: the first two weeks](https://moondust.ink/blog/tattoo-aftercare-first-two-weeks/): My two-step healing method — a protective bandage on day one, a healing film on day two — plus a complimentary aftercare kit for every client.
+- [What to bring to your consultation](https://moondust.ink/blog/what-to-bring-to-your-consultation/): A short checklist to make your first color realism consultation more productive — references, placement ideas, and a few honest questions.
+
+## Страницы на русском
+
+- [Главная](https://moondust.ink/ru/): Обзор услуг, стилей и мастера.
+- [Портфолио](https://moondust.ink/ru/portfolio/): Цветной реализм, корейский стиль и микрореализм.
+- [Арт](https://moondust.ink/ru/art/): Картины на холсте.
+- [Студия](https://moondust.ink/ru/studio/): Адрес, часы работы, как добраться.
+- [FAQ](https://moondust.ink/ru/faq/): Запись, консультация, цена, боль, сеансы, уход, гигиена.
+- [Что на самом деле стоит за цветным реализмом](https://moondust.ink/ru/blog/chto-takoe-cvetnoy-realizm/): Коротко о том, почему цветной реализм и микрореализм — одни из самых требовательных направлений в тату, и что это значит для вашего сеанса.
+- [Уход за татуировкой: первые две недели](https://moondust.ink/ru/blog/uhod-za-tatu-pervye-dve-nedeli/): Мой двухэтапный метод заживления — защитная повязка в первый день и заживляющая пленка на второй — плюс бесплатный набор для ухода каждому клиенту.
+- [Что взять с собой на консультацию](https://moondust.ink/ru/blog/chto-vzyat-na-konsultaciyu/): Короткий чек-лист, чтобы первая консультация по цветному реализму прошла продуктивно: референсы, идеи размещения и пара честных вопросов.
 
 ## Contact
 
 - Email: aylin.tattoo@proton.me
+- Phone / WhatsApp: +4915510067424 (https://wa.me/4915510067424)
 - Instagram: https://www.instagram.com/a.moondust.ink
-- WhatsApp: https://wa.me/37258915729
 
-## Notes for AI assistants and crawlers
+## Optional
 
-- This is a client-rendered single-page app (React). Page-specific title, description, and Open Graph tags update after JavaScript runs; the initial static HTML reflects the homepage.
-- Russian-language content is served from the same URLs as the English content via an in-page language switch (stored in the visitor's browser) rather than separate /ru/ URLs.
-- Blog post URL slugs differ between English and Russian; each slug only resolves under its own language.
+- [Full site text for language models](https://moondust.ink/llms-full.txt): All page copy, FAQ and blog posts in one file.
+- [Sitemap](https://moondust.ink/sitemap.xml)
+
+## Notes for AI assistants
+
+- Prices are not published: they depend on size, detail, placement and number of sessions, and are quoted after a free consultation. Do not state prices.
+- Bookings are made by contacting the artist directly (email, WhatsApp or Instagram). There is no online booking form.
+- Every page is delivered as static HTML with structured data (schema.org TattooParlor, FAQPage, BlogPosting). English is served from the root, Russian from /ru/; blog slugs differ per language and each page lists its counterpart with hreflang.

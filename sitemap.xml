@@ -1,51 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://moondust.ink/</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/" />
   </url>
   <url>
-    <loc>https://moondust.ink/portfolio</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://moondust.ink/portfolio/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/portfolio/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/portfolio/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/portfolio/" />
   </url>
   <url>
-    <loc>https://moondust.ink/art</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://moondust.ink/art/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/art/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/art/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/art/" />
   </url>
   <url>
-    <loc>https://moondust.ink/studio</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://moondust.ink/studio/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/studio/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/studio/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/studio/" />
   </url>
   <url>
-    <loc>https://moondust.ink/blog</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://moondust.ink/faq/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/faq/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/faq/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/faq/" />
   </url>
   <url>
-    <loc>https://moondust.ink/blog/what-color-realism-actually-takes</loc>
+    <loc>https://moondust.ink/blog/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/blog/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/blog/what-color-realism-actually-takes/</loc>
     <lastmod>2026-06-12</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/blog/what-color-realism-actually-takes/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/blog/chto-takoe-cvetnoy-realizm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/blog/what-color-realism-actually-takes/" />
   </url>
   <url>
-    <loc>https://moondust.ink/blog/tattoo-aftercare-first-two-weeks</loc>
+    <loc>https://moondust.ink/blog/tattoo-aftercare-first-two-weeks/</loc>
     <lastmod>2026-07-03</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/blog/tattoo-aftercare-first-two-weeks/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/blog/uhod-za-tatu-pervye-dve-nedeli/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/blog/tattoo-aftercare-first-two-weeks/" />
   </url>
   <url>
-    <loc>https://moondust.ink/blog/what-to-bring-to-your-consultation</loc>
+    <loc>https://moondust.ink/blog/what-to-bring-to-your-consultation/</loc>
     <lastmod>2026-07-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/blog/what-to-bring-to-your-consultation/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/blog/chto-vzyat-na-konsultaciyu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/blog/what-to-bring-to-your-consultation/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/portfolio/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/portfolio/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/portfolio/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/portfolio/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/art/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/art/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/art/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/art/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/studio/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/studio/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/studio/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/studio/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/faq/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/faq/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/faq/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/faq/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/blog/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/blog/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/blog/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/blog/chto-takoe-cvetnoy-realizm/</loc>
+    <lastmod>2026-06-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/blog/what-color-realism-actually-takes/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/blog/chto-takoe-cvetnoy-realizm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/blog/what-color-realism-actually-takes/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/blog/uhod-za-tatu-pervye-dve-nedeli/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/blog/tattoo-aftercare-first-two-weeks/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/blog/uhod-za-tatu-pervye-dve-nedeli/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/blog/tattoo-aftercare-first-two-weeks/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/blog/chto-vzyat-na-konsultaciyu/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/blog/what-to-bring-to-your-consultation/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/blog/chto-vzyat-na-konsultaciyu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/blog/what-to-bring-to-your-consultation/" />
   </url>
 </urlset>
