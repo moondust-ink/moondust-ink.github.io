@@ -2,45 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://moondust.ink/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/" />
   </url>
   <url>
     <loc>https://moondust.ink/portfolio/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/portfolio/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/portfolio/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/portfolio/" />
   </url>
   <url>
     <loc>https://moondust.ink/art/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/art/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/art/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/art/" />
   </url>
   <url>
     <loc>https://moondust.ink/studio/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/studio/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/studio/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/studio/" />
   </url>
   <url>
     <loc>https://moondust.ink/faq/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/faq/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/faq/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/faq/" />
   </url>
   <url>
     <loc>https://moondust.ink/blog/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/blog/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/blog/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/blog/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/color-realism/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/color-realism/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/color-realism/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/color-realism/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/micro-realism/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/micro-realism/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/micro-realism/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/micro-realism/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/korean-style/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/korean-style/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/korean-style/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/korean-style/" />
   </url>
   <url>
     <loc>https://moondust.ink/blog/what-color-realism-actually-takes/</loc>
@@ -65,45 +86,66 @@
   </url>
   <url>
     <loc>https://moondust.ink/ru/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/" />
   </url>
   <url>
     <loc>https://moondust.ink/ru/portfolio/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/portfolio/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/portfolio/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/portfolio/" />
   </url>
   <url>
     <loc>https://moondust.ink/ru/art/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/art/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/art/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/art/" />
   </url>
   <url>
     <loc>https://moondust.ink/ru/studio/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/studio/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/studio/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/studio/" />
   </url>
   <url>
     <loc>https://moondust.ink/ru/faq/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/faq/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/faq/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/faq/" />
   </url>
   <url>
     <loc>https://moondust.ink/ru/blog/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/blog/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/blog/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/blog/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/color-realism/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/color-realism/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/color-realism/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/color-realism/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/micro-realism/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/micro-realism/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/micro-realism/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/micro-realism/" />
+  </url>
+  <url>
+    <loc>https://moondust.ink/ru/korean-style/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://moondust.ink/korean-style/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://moondust.ink/ru/korean-style/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://moondust.ink/korean-style/" />
   </url>
   <url>
     <loc>https://moondust.ink/ru/blog/chto-takoe-cvetnoy-realizm/</loc>
